@@ -4,6 +4,6 @@ My attempts at solving problems presented at [Polish version of Sphere Online Ju
 
 # Project page
 
-https://bitbucket.org/lwojcik/plspoj-problems
+https://github.com/lwojcik/plspoj-problems
 
 Licensed under MIT license. See [LICENSE](https://bitbucket.org/lwojcik/plspoj-problems/raw/HEAD/LICENSE) for more info.
